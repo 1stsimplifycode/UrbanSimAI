@@ -1,0 +1,5 @@
+{
+  "name": "UDAPS - Urban Digital Twin",
+  "description": "A comprehensive Urban Digital Twin and AI Policy Simulator. It uses Gemini to interpret natural language city policies, simulates their impact on traffic and emissions using a graph-based network flow model, and visualizes real-time metrics.",
+  "requestFramePermissions": []
+}
